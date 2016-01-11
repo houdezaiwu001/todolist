@@ -1,5 +1,5 @@
 /*global jQuery, Handlebars, Router */
-<script type="text/javascript" src="/todolist/node_modules/todomvc-common/base.css"></script>
+
 jQuery(function ($) {
 	'use strict';
 
